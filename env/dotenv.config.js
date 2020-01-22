@@ -1,6 +1,6 @@
 const dotenv = require('dotenv');
 const path = require('path');
-const { PRODUCTION, TESTING, DEVELOPMENT } = require('../utils/const');
+const { PRODUCTION, TESTING, DEVELOPMENT } = require('../const/env');
 const logger = require('../logger/logger');
 
 module.exports = (() => {
@@ -10,16 +10,13 @@ module.exports = (() => {
   if (nodeEnv === PRODUCTION) {
     logger.info('Loading production config');
     dotenv.config({ path: path.resolve(__dirname, 'production.env') });
-  }
-  else if (nodeEnv === TESTING) {
+  } else if (nodeEnv === TESTING) {
     logger.info('Loading testing config');
     dotenv.config({ path: path.resolve(__dirname, 'testing.env') });
-  }
-  else if (nodeEnv === DEVELOPMENT) {
+  } else if (nodeEnv === DEVELOPMENT) {
     logger.info('Loading development config');
     dotenv.config({ path: path.resolve(__dirname, 'development.env') });
-  }
-  else {
+  } else {
     logger.error(`No environment variable set ${nodeEnv}`);
     process.exit();
   }

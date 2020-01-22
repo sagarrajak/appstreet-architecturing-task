@@ -1,5 +1,5 @@
 const { createLogger, format, transports } = require('winston');
-const { PRODUCTION } = require('@utils/const');
+const { PRODUCTION } = require('../const/env');
 /**
  * Last Update 31-7-2019
  * we are going to create three different logger environment

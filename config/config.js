@@ -2,7 +2,7 @@
 
 const env = require('../env/dotenv.config');
 const logger = require('../logger/logger');
-const { PRODUCTION, TESTING } = require('../src/utils/const');
+const { PRODUCTION, TESTING } = require('../const/env');
 const { recursiveAssignVariable } = require('./recursive-assign-variable');
 
 const development = require('./development.json');
