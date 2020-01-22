@@ -1,0 +1,21 @@
+version: '3.1'
+services:
+  database:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: postgres
+      POSTGRES_DB: postgres
+      POSTGRES_HOST: database
+      POSTGRES_PORT: 5432
+    ports:
+      - 5432:5432
+  backend:
+    build:
+      dockerfile: dev.Dockerfile
+      context: .
+    volumes:
+      - /app/mode_modules
+      - ./:/app
+    ports:
+      - '3000:3000'

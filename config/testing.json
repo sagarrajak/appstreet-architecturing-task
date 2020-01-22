@@ -1,0 +1,15 @@
+{
+    "app_port": 3000,
+    "db": {
+        "postgres_database": "postgres",
+        "postgres_user": "postgres",
+        "postgres_password": "sagar123",
+        "postgres_host": "127.0.0.1",
+        "postgres_port": "5432",
+        "dialect": "psql",
+        "operatorsAliases": false
+    },
+    "secret": "It was released in May 1999 as the third single from the album, LAmour Toujours. It reached number 3 in Austria and number 15 in France. This song",
+    "testing_email": "testing@gmail.com",
+    "testing_password": "password"
+}
