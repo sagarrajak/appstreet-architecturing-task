@@ -33,7 +33,7 @@ if (_.isNil(process.env.NODE_ENV)) {
 
 const sequelizeConnect = require('../sequelize/sequelize');
 // const mainModule = require('../src/main/routes/route.main');
-// const modelsModule = require('../models/models');
+const modelsModule = require('../models/main');
 
 app.use(helmet());
 app.use(cors());
@@ -55,7 +55,7 @@ if (process.platform === 'linux') {
 (async () => {
   const sequelize = await sequelizeConnect();
   logger.info('Connected to database');
-  // await modelsModule(sequelize);
+  await modelsModule(sequelize);
   if (nodeEnv === TESTING) {
     await sequelize.sync({ force: true });
   } else {

@@ -1,17 +1,17 @@
-const OptionModel = require('../models/options');
-const ProductModel = require('../models/product');
-const VariantModel = require('../models/variant');
-const AttributesModel = require('../models/attribute');
+const { optionsModel } = require('../models/options');
+const { productModel } = require('../models/product');
+const { variantModel } = require('../models/variant');
+const { attributeModel } = require('../models/attribute');
 
 module.exports = (sequelize) => {
-  const Options = OptionModel(sequelize);
-  const Product = ProductModel(sequelize);
-  const Variant = VariantModel(sequelize);
-  const Attribute = AttributesModel(sequelize);
+  const Product = productModel(sequelize);
+  const Variant = variantModel(sequelize);
+  const Attribute = attributeModel(sequelize);
+  const Options = optionsModel(sequelize);
 
   return {
-    Options,
     Product,
+    Options,
     Variant,
     Attribute,
   };

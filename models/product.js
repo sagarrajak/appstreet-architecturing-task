@@ -1,7 +1,12 @@
 const { DataTypes } = require('sequelize');
 const TableName = require('../const/tablename');
 
-exports.definition = {
+const definition = {
+  id: {
+    type: DataTypes.INTEGER,
+    primaryKey: true,
+    autoIncrement: true,
+  },
   product_name: {
     type: DataTypes.TEXT,
     validate: {
@@ -20,12 +25,16 @@ exports.definition = {
       len: [0, 2000],
     },
   },
+  updatedAt: DataTypes.DATE,
+  createdAt: DataTypes.DATE,
 };
 
-module.exports = (sequelize) => {
-  const Product = sequelize.define(TableName.PRODUCT, exports.definition, {
+exports.productModel = (sequelize) => {
+  const Product = sequelize.define(TableName.PRODUCT, definition, {
     timestamps: true,
     freezeTableName: true,
   });
   return Product;
 };
+
+exports.definition = definition;

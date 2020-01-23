@@ -2,7 +2,12 @@ const { DataTypes } = require('sequelize');
 const Sequelize = require('sequelize');
 const TableName = require('../const/tablename');
 
-exports.definition = {
+const definition = {
+  id: {
+    type: DataTypes.INTEGER,
+    primaryKey: true,
+    autoIncrement: true,
+  },
   name: {
     type: DataTypes.TEXT,
     validate: {
@@ -10,11 +15,11 @@ exports.definition = {
     },
   },
   variant_id: {
-    type: DataTypes.TEXT,
+    type: DataTypes.INTEGER,
     references: {
       model: TableName.VARIANT,
       key: 'id',
-      deferrable: Sequelize.INTEGER,
+      deferrable: Sequelize.Deferrable.INITIALLY_DEFERRED,
     },
   },
   default_value: {
@@ -23,12 +28,16 @@ exports.definition = {
       len: [0, 1000],
     },
   },
+  updatedAt: DataTypes.DATE,
+  createdAt: DataTypes.DATE,
 };
 
-module.exports = (sequelize) => {
-  const Attribute = sequelize.define(TableName.ATTRIBUTES, exports.definition, {
+exports.attributeModel = (sequelize) => {
+  const Attribute = sequelize.define(TableName.ATTRIBUTES, definition, {
     timestamps: true,
     freezeTableName: true,
   });
   return Attribute;
 };
+
+exports.definition = definition;

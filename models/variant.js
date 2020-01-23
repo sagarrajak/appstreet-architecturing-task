@@ -2,7 +2,12 @@ const { DataTypes } = require('sequelize');
 const Sequelize = require('sequelize');
 const TableName = require('../const/tablename');
 
-exports.definition = {
+const definition = {
+  id: {
+    type: DataTypes.INTEGER,
+    primaryKey: true,
+    autoIncrement: true,
+  },
   product_id: {
     references: {
       model: TableName.PRODUCT,
@@ -21,12 +26,16 @@ exports.definition = {
   variant_description: {
     type: DataTypes.TEXT,
   },
+  updatedAt: DataTypes.DATE,
+  createdAt: DataTypes.DATE,
 };
 
-module.exports = (sequelize) => {
-  const Variant = sequelize.define(TableName.VARIANT, exports.definition, {
+exports.variantModel = (sequelize) => {
+  const Variant = sequelize.define(TableName.VARIANT, definition, {
     timestamps: true,
     freezeTableName: true,
   });
   return Variant;
 };
+
+exports.definition = definition;
