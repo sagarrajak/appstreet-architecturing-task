@@ -14,19 +14,20 @@ const definition = {
       len: [0, 1000],
     },
   },
-  variant_id: {
-    type: DataTypes.INTEGER,
-    references: {
-      model: TableName.VARIANT,
-      key: 'id',
-      deferrable: Sequelize.Deferrable.INITIALLY_DEFERRED,
-    },
-  },
   default_value: {
     type: DataTypes.TEXT,
     validate: {
       len: [0, 1000],
     },
+  },
+  product_id: {
+    references: {
+      model: TableName.PRODUCT,
+      key: 'id',
+      deferrable: Sequelize.Deferrable.INITIALLY_DEFERRED,
+    },
+    allowNull: false,
+    type: DataTypes.INTEGER,
   },
   updatedAt: DataTypes.DATE,
   createdAt: DataTypes.DATE,

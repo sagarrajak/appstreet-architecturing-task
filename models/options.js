@@ -15,6 +15,14 @@ const definition = {
       len: [0, 1000],
     },
   },
+  variant_id: {
+    type: DataTypes.INTEGER,
+    references: {
+      model: TableName.VARIANT,
+      key: 'id',
+      deferrable: Sequelize.Deferrable.INITIALLY_DEFERRED,
+    },
+  },
   attr_id: {
     references: {
       model: TableName.ATTRIBUTES,

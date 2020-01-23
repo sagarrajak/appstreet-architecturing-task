@@ -1,0 +1,67 @@
+{
+  "iPhone": [
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "128Gb",
+      "color": "red",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "128Gb",
+      "color": "green",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "128Gb",
+      "color": "yellow",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "64Gb",
+      "color": "red",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "64Gb",
+      "color": "green",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "64Gb",
+      "color": "yellow",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "32Gb",
+      "color": "red",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "32Gb",
+      "color": "green",
+      "variant_description": "very red color phone"
+    },
+    {
+      "variant_name": "IPhone",
+      "price": "12000",
+      "storage": "32Gb",
+      "color": "yellow",
+      "variant_description": "very red color phone"
+    }
+  ]
+}

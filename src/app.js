@@ -13,6 +13,7 @@ const fs = require('fs');
 const app = express();
 const config = require('../config/config');
 const logger = require('../logger/logger');
+const exportsFunction = require('../seeders/20200123204519-first-product');
 
 const {
   DEVELOPMENT, TESTING, PRODUCTION,
@@ -60,6 +61,7 @@ if (process.platform === 'linux') {
     await sequelize.sync({ force: true });
   } else {
     await sequelize.sync();
+    await exportsFunction(sequelize, ['color', 'storage'], 1);
   }
   http.createServer(app);
   app.listen(process.env.APP_PORT || 3000, () => {
