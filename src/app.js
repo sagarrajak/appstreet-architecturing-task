@@ -11,7 +11,7 @@ const _ = require('lodash');
 const fs = require('fs');
 
 const app = express();
-// const config = require('./config/config');
+const config = require('../config/config');
 const logger = require('../logger/logger');
 
 const {
@@ -52,23 +52,17 @@ if (process.platform === 'linux') {
   if (!fs.existsSync('env/production.env')) { fs.writeFile('env/production.env', '', 'utf8', (err) => { if (err) { throw err; } }); }
 }
 
-(async (resolve, reject) => {
-  try {
-    const sequelize = await sequelizeConnect();
-    logger.info('Connected to database');
-    // await modelsModule(sequelize);
-    if (nodeEnv === TESTING) {
-      await sequelize.sync({ force: true });
-    } else {
-      await sequelize.sync();
-    }
-    http.createServer(app);
-    app.listen(process.env.APP_PORT || 3000, () => {
-      logger.info(`listening at ${process.env.APP_PORT || 3000} at ${nodeEnv}`);
-    });
-    resolve(app);
-  } catch (err) {
-    reject(err);
-    throw err;
+(async () => {
+  const sequelize = await sequelizeConnect();
+  logger.info('Connected to database');
+  // await modelsModule(sequelize);
+  if (nodeEnv === TESTING) {
+    await sequelize.sync({ force: true });
+  } else {
+    await sequelize.sync();
   }
+  http.createServer(app);
+  app.listen(process.env.APP_PORT || 3000, () => {
+    logger.info(`listening at ${process.env.APP_PORT || 3000} at ${nodeEnv}`);
+  });
 })();

@@ -1,7 +1,7 @@
 const _ = require('lodash');
 const {
   PASSWORD, PORT, USER, DATABASE, HOST,
-} = require('../database.const');
+} = require('./database.const');
 
 exports.validateConfig = (config) => {
   if (config.db[DATABASE]

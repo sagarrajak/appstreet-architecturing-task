@@ -2,11 +2,11 @@ const Sequelize = require('sequelize');
 const config = require('../config/config');
 const {
   PASSWORD, PORT, USER, DATABASE, HOST,
-} = require('../database.const');
-const { validateConfig } = require('../database.connection');
+} = require('./database.const');
+const { validateConfig } = require('./database.connection');
 const logger = require('../logger/logger');
 
-module.exports = async () => new Promise((resolve, reject) => {
+module.exports = () => new Promise((resolve, reject) => {
   const configValidation = validateConfig(config);
   if (configValidation) {
     const sequelize = new Sequelize(config.db[DATABASE], config.db[USER], config.db[PASSWORD], {
@@ -18,7 +18,7 @@ module.exports = async () => new Promise((resolve, reject) => {
     sequelize.authenticate()
       .then(() => resolve(sequelize))
       // eslint-disable-next-line no-unused-vars
-      .catch(_err => reject(new Error('authentication failed')));
+      .catch((_err) => reject(new Error('authentication failed')));
   }
   else {
     reject(new Error(configValidation));
