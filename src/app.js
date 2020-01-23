@@ -13,7 +13,7 @@ const fs = require('fs');
 const app = express();
 const config = require('../config/config');
 const logger = require('../logger/logger');
-const exportsFunction = require('../seeders/20200123204519-first-product');
+const exportsFunction = require('../seeders/inittable');
 
 const {
   DEVELOPMENT, TESTING, PRODUCTION,
