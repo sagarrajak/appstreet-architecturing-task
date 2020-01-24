@@ -13,7 +13,7 @@ const fs = require('fs');
 const app = express();
 const config = require('../config/config');
 const logger = require('../logger/logger');
-const exportsFunction = require('../seeders/inittable');
+// const exportsFunction = require('../seeders/inittable');
 
 const {
   DEVELOPMENT, TESTING, PRODUCTION,
@@ -33,7 +33,7 @@ if (_.isNil(process.env.NODE_ENV)) {
 }
 
 const sequelizeConnect = require('../sequelize/sequelize');
-// const mainModule = require('../src/main/routes/route.main');
+const mainModule = require('../src/routes');
 const modelsModule = require('../models/main');
 
 app.use(helmet());
@@ -61,7 +61,7 @@ if (process.platform === 'linux') {
     await sequelize.sync({ force: true });
   } else {
     await sequelize.sync();
-    await exportsFunction(sequelize, ['color', 'storage'], 1);
+    app.use('/', mainModule(sequelize));
   }
   http.createServer(app);
   app.listen(process.env.APP_PORT || 3000, () => {
