@@ -102,4 +102,5 @@ const seedFunction = async (sequelize) => {
   await viewsModule(sequelize);
   await seedFunction(sequelize);
   logger.info('Data Seeded successfully');
+  process.exit(0);
 })();
