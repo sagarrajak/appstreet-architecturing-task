@@ -5,42 +5,42 @@
       "storage": "128Gb",
       "variant_name": "red iPhone Apple",
       "variant_description": "red",
-      "price": 22194
+      "price": 59687
     },
     {
       "color": "red",
       "storage": "512Gb",
       "variant_name": "red iPhone Apple",
       "variant_description": "red",
-      "price": 8405
+      "price": 97419
     },
     {
       "color": "green",
       "storage": "128Gb",
       "variant_name": "green iPhone Apple",
       "variant_description": "green",
-      "price": 48759
+      "price": 22085
     },
     {
       "color": "green",
       "storage": "512Gb",
       "variant_name": "green iPhone Apple",
       "variant_description": "green",
-      "price": 34988
+      "price": 57234
     },
     {
       "color": "blue",
       "storage": "128Gb",
       "variant_name": "blue iPhone Apple",
       "variant_description": "blue",
-      "price": 69627
+      "price": 15590
     },
     {
       "color": "blue",
       "storage": "512Gb",
       "variant_name": "blue iPhone Apple",
       "variant_description": "blue",
-      "price": 11379
+      "price": 41035
     }
   ],
   "laptop": [
@@ -51,7 +51,7 @@
       "ram": "8gb",
       "variant_name": "red 128Gb 1Kg laptop asus",
       "variant_description": "red 128Gb 1Kg",
-      "price": 13007
+      "price": 17021
     },
     {
       "color": "red",
@@ -60,7 +60,7 @@
       "ram": "16gb",
       "variant_name": "red 128Gb 1Kg laptop asus",
       "variant_description": "red 128Gb 1Kg",
-      "price": 43230
+      "price": 17538
     },
     {
       "color": "red",
@@ -69,7 +69,7 @@
       "ram": "32Gb",
       "variant_name": "red 128Gb 1Kg laptop asus",
       "variant_description": "red 128Gb 1Kg",
-      "price": 73971
+      "price": 48070
     },
     {
       "color": "red",
@@ -78,7 +78,7 @@
       "ram": "8gb",
       "variant_name": "red 128Gb 1.02Kg laptop asus",
       "variant_description": "red 128Gb 1.02Kg",
-      "price": 6933
+      "price": 17625
     },
     {
       "color": "red",
@@ -87,7 +87,7 @@
       "ram": "16gb",
       "variant_name": "red 128Gb 1.02Kg laptop asus",
       "variant_description": "red 128Gb 1.02Kg",
-      "price": 65142
+      "price": 75873
     },
     {
       "color": "red",
@@ -96,7 +96,7 @@
       "ram": "32Gb",
       "variant_name": "red 128Gb 1.02Kg laptop asus",
       "variant_description": "red 128Gb 1.02Kg",
-      "price": 79924
+      "price": 73326
     },
     {
       "color": "red",
@@ -105,7 +105,7 @@
       "ram": "8gb",
       "variant_name": "red 128Gb 1.5kg laptop asus",
       "variant_description": "red 128Gb 1.5kg",
-      "price": 48765
+      "price": 37300
     },
     {
       "color": "red",
@@ -114,7 +114,7 @@
       "ram": "16gb",
       "variant_name": "red 128Gb 1.5kg laptop asus",
       "variant_description": "red 128Gb 1.5kg",
-      "price": 4644
+      "price": 71078
     },
     {
       "color": "red",
@@ -123,7 +123,7 @@
       "ram": "32Gb",
       "variant_name": "red 128Gb 1.5kg laptop asus",
       "variant_description": "red 128Gb 1.5kg",
-      "price": 85876
+      "price": 98866
     },
     {
       "color": "red",
@@ -132,7 +132,7 @@
       "ram": "8gb",
       "variant_name": "red 512Gb 1Kg laptop asus",
       "variant_description": "red 512Gb 1Kg",
-      "price": 19806
+      "price": 16813
     },
     {
       "color": "red",
@@ -141,7 +141,7 @@
       "ram": "16gb",
       "variant_name": "red 512Gb 1Kg laptop asus",
       "variant_description": "red 512Gb 1Kg",
-      "price": 62919
+      "price": 63239
     },
     {
       "color": "red",
@@ -150,7 +150,7 @@
       "ram": "32Gb",
       "variant_name": "red 512Gb 1Kg laptop asus",
       "variant_description": "red 512Gb 1Kg",
-      "price": 55872
+      "price": 7112
     },
     {
       "color": "red",
@@ -159,7 +159,7 @@
       "ram": "8gb",
       "variant_name": "red 512Gb 1.02Kg laptop asus",
       "variant_description": "red 512Gb 1.02Kg",
-      "price": 48423
+      "price": 59006
     },
     {
       "color": "red",
@@ -168,7 +168,7 @@
       "ram": "16gb",
       "variant_name": "red 512Gb 1.02Kg laptop asus",
       "variant_description": "red 512Gb 1.02Kg",
-      "price": 40611
+      "price": 82517
     },
     {
       "color": "red",
@@ -177,7 +177,7 @@
       "ram": "32Gb",
       "variant_name": "red 512Gb 1.02Kg laptop asus",
       "variant_description": "red 512Gb 1.02Kg",
-      "price": 36695
+      "price": 68471
     },
     {
       "color": "red",
@@ -186,7 +186,7 @@
       "ram": "8gb",
       "variant_name": "red 512Gb 1.5kg laptop asus",
       "variant_description": "red 512Gb 1.5kg",
-      "price": 40153
+      "price": 72357
     },
     {
       "color": "red",
@@ -195,7 +195,7 @@
       "ram": "16gb",
       "variant_name": "red 512Gb 1.5kg laptop asus",
       "variant_description": "red 512Gb 1.5kg",
-      "price": 11057
+      "price": 91072
     },
     {
       "color": "red",
@@ -204,7 +204,7 @@
       "ram": "32Gb",
       "variant_name": "red 512Gb 1.5kg laptop asus",
       "variant_description": "red 512Gb 1.5kg",
-      "price": 47716
+      "price": 86162
     },
     {
       "color": "red",
@@ -213,7 +213,7 @@
       "ram": "8gb",
       "variant_name": "red 1Tb 1Kg laptop asus",
       "variant_description": "red 1Tb 1Kg",
-      "price": 14033
+      "price": 26763
     },
     {
       "color": "red",
@@ -222,7 +222,7 @@
       "ram": "16gb",
       "variant_name": "red 1Tb 1Kg laptop asus",
       "variant_description": "red 1Tb 1Kg",
-      "price": 72027
+      "price": 23487
     },
     {
       "color": "red",
@@ -231,7 +231,7 @@
       "ram": "32Gb",
       "variant_name": "red 1Tb 1Kg laptop asus",
       "variant_description": "red 1Tb 1Kg",
-      "price": 18888
+      "price": 1540
     },
     {
       "color": "red",
@@ -240,7 +240,7 @@
       "ram": "8gb",
       "variant_name": "red 1Tb 1.02Kg laptop asus",
       "variant_description": "red 1Tb 1.02Kg",
-      "price": 97211
+      "price": 60801
     },
     {
       "color": "red",
@@ -249,7 +249,7 @@
       "ram": "16gb",
       "variant_name": "red 1Tb 1.02Kg laptop asus",
       "variant_description": "red 1Tb 1.02Kg",
-      "price": 87728
+      "price": 89259
     },
     {
       "color": "red",
@@ -258,7 +258,7 @@
       "ram": "32Gb",
       "variant_name": "red 1Tb 1.02Kg laptop asus",
       "variant_description": "red 1Tb 1.02Kg",
-      "price": 15282
+      "price": 2112
     },
     {
       "color": "red",
@@ -267,7 +267,7 @@
       "ram": "8gb",
       "variant_name": "red 1Tb 1.5kg laptop asus",
       "variant_description": "red 1Tb 1.5kg",
-      "price": 14974
+      "price": 88960
     },
     {
       "color": "red",
@@ -276,7 +276,7 @@
       "ram": "16gb",
       "variant_name": "red 1Tb 1.5kg laptop asus",
       "variant_description": "red 1Tb 1.5kg",
-      "price": 86532
+      "price": 78584
     },
     {
       "color": "red",
@@ -285,7 +285,7 @@
       "ram": "32Gb",
       "variant_name": "red 1Tb 1.5kg laptop asus",
       "variant_description": "red 1Tb 1.5kg",
-      "price": 35337
+      "price": 51975
     },
     {
       "color": "red",
@@ -294,7 +294,7 @@
       "ram": "8gb",
       "variant_name": "red 2Tb 1Kg laptop asus",
       "variant_description": "red 2Tb 1Kg",
-      "price": 778
+      "price": 91787
     },
     {
       "color": "red",
@@ -303,7 +303,7 @@
       "ram": "16gb",
       "variant_name": "red 2Tb 1Kg laptop asus",
       "variant_description": "red 2Tb 1Kg",
-      "price": 82454
+      "price": 64115
     },
     {
       "color": "red",
@@ -312,7 +312,7 @@
       "ram": "32Gb",
       "variant_name": "red 2Tb 1Kg laptop asus",
       "variant_description": "red 2Tb 1Kg",
-      "price": 16329
+      "price": 91969
     },
     {
       "color": "red",
@@ -321,7 +321,7 @@
       "ram": "8gb",
       "variant_name": "red 2Tb 1.02Kg laptop asus",
       "variant_description": "red 2Tb 1.02Kg",
-      "price": 19497
+      "price": 58810
     },
     {
       "color": "red",
@@ -330,7 +330,7 @@
       "ram": "16gb",
       "variant_name": "red 2Tb 1.02Kg laptop asus",
       "variant_description": "red 2Tb 1.02Kg",
-      "price": 58875
+      "price": 71999
     },
     {
       "color": "red",
@@ -339,7 +339,7 @@
       "ram": "32Gb",
       "variant_name": "red 2Tb 1.02Kg laptop asus",
       "variant_description": "red 2Tb 1.02Kg",
-      "price": 48482
+      "price": 26137
     },
     {
       "color": "red",
@@ -348,7 +348,7 @@
       "ram": "8gb",
       "variant_name": "red 2Tb 1.5kg laptop asus",
       "variant_description": "red 2Tb 1.5kg",
-      "price": 53154
+      "price": 16135
     },
     {
       "color": "red",
@@ -357,7 +357,7 @@
       "ram": "16gb",
       "variant_name": "red 2Tb 1.5kg laptop asus",
       "variant_description": "red 2Tb 1.5kg",
-      "price": 28859
+      "price": 16640
     },
     {
       "color": "red",
@@ -366,7 +366,7 @@
       "ram": "32Gb",
       "variant_name": "red 2Tb 1.5kg laptop asus",
       "variant_description": "red 2Tb 1.5kg",
-      "price": 17473
+      "price": 22872
     },
     {
       "color": "green",
@@ -375,7 +375,7 @@
       "ram": "8gb",
       "variant_name": "green 128Gb 1Kg laptop asus",
       "variant_description": "green 128Gb 1Kg",
-      "price": 14666
+      "price": 5609
     },
     {
       "color": "green",
@@ -384,7 +384,7 @@
       "ram": "16gb",
       "variant_name": "green 128Gb 1Kg laptop asus",
       "variant_description": "green 128Gb 1Kg",
-      "price": 66868
+      "price": 83975
     },
     {
       "color": "green",
@@ -393,7 +393,7 @@
       "ram": "32Gb",
       "variant_name": "green 128Gb 1Kg laptop asus",
       "variant_description": "green 128Gb 1Kg",
-      "price": 64198
+      "price": 54052
     },
     {
       "color": "green",
@@ -402,7 +402,7 @@
       "ram": "8gb",
       "variant_name": "green 128Gb 1.02Kg laptop asus",
       "variant_description": "green 128Gb 1.02Kg",
-      "price": 74192
+      "price": 95486
     },
     {
       "color": "green",
@@ -411,7 +411,7 @@
       "ram": "16gb",
       "variant_name": "green 128Gb 1.02Kg laptop asus",
       "variant_description": "green 128Gb 1.02Kg",
-      "price": 25874
+      "price": 19507
     },
     {
       "color": "green",
@@ -420,7 +420,7 @@
       "ram": "32Gb",
       "variant_name": "green 128Gb 1.02Kg laptop asus",
       "variant_description": "green 128Gb 1.02Kg",
-      "price": 74027
+      "price": 20193
     },
     {
       "color": "green",
@@ -429,7 +429,7 @@
       "ram": "8gb",
       "variant_name": "green 128Gb 1.5kg laptop asus",
       "variant_description": "green 128Gb 1.5kg",
-      "price": 59910
+      "price": 15751
     },
     {
       "color": "green",
@@ -438,7 +438,7 @@
       "ram": "16gb",
       "variant_name": "green 128Gb 1.5kg laptop asus",
       "variant_description": "green 128Gb 1.5kg",
-      "price": 85849
+      "price": 55991
     },
     {
       "color": "green",
@@ -447,7 +447,7 @@
       "ram": "32Gb",
       "variant_name": "green 128Gb 1.5kg laptop asus",
       "variant_description": "green 128Gb 1.5kg",
-      "price": 15544
+      "price": 57277
     },
     {
       "color": "green",
@@ -456,7 +456,7 @@
       "ram": "8gb",
       "variant_name": "green 512Gb 1Kg laptop asus",
       "variant_description": "green 512Gb 1Kg",
-      "price": 14235
+      "price": 9137
     },
     {
       "color": "green",
@@ -465,7 +465,7 @@
       "ram": "16gb",
       "variant_name": "green 512Gb 1Kg laptop asus",
       "variant_description": "green 512Gb 1Kg",
-      "price": 17845
+      "price": 99377
     },
     {
       "color": "green",
@@ -474,7 +474,7 @@
       "ram": "32Gb",
       "variant_name": "green 512Gb 1Kg laptop asus",
       "variant_description": "green 512Gb 1Kg",
-      "price": 17852
+      "price": 63014
     },
     {
       "color": "green",
@@ -483,7 +483,7 @@
       "ram": "8gb",
       "variant_name": "green 512Gb 1.02Kg laptop asus",
       "variant_description": "green 512Gb 1.02Kg",
-      "price": 30427
+      "price": 65843
     },
     {
       "color": "green",
@@ -492,7 +492,7 @@
       "ram": "16gb",
       "variant_name": "green 512Gb 1.02Kg laptop asus",
       "variant_description": "green 512Gb 1.02Kg",
-      "price": 37553
+      "price": 30741
     },
     {
       "color": "green",
@@ -501,7 +501,7 @@
       "ram": "32Gb",
       "variant_name": "green 512Gb 1.02Kg laptop asus",
       "variant_description": "green 512Gb 1.02Kg",
-      "price": 20977
+      "price": 27995
     },
     {
       "color": "green",
@@ -510,7 +510,7 @@
       "ram": "8gb",
       "variant_name": "green 512Gb 1.5kg laptop asus",
       "variant_description": "green 512Gb 1.5kg",
-      "price": 83085
+      "price": 1569
     },
     {
       "color": "green",
@@ -519,7 +519,7 @@
       "ram": "16gb",
       "variant_name": "green 512Gb 1.5kg laptop asus",
       "variant_description": "green 512Gb 1.5kg",
-      "price": 48219
+      "price": 17545
     },
     {
       "color": "green",
@@ -528,7 +528,7 @@
       "ram": "32Gb",
       "variant_name": "green 512Gb 1.5kg laptop asus",
       "variant_description": "green 512Gb 1.5kg",
-      "price": 58725
+      "price": 87656
     },
     {
       "color": "green",
@@ -537,7 +537,7 @@
       "ram": "8gb",
       "variant_name": "green 1Tb 1Kg laptop asus",
       "variant_description": "green 1Tb 1Kg",
-      "price": 55299
+      "price": 55187
     },
     {
       "color": "green",
@@ -546,7 +546,7 @@
       "ram": "16gb",
       "variant_name": "green 1Tb 1Kg laptop asus",
       "variant_description": "green 1Tb 1Kg",
-      "price": 48748
+      "price": 12302
     },
     {
       "color": "green",
@@ -555,484 +555,484 @@
       "ram": "32Gb",
       "variant_name": "green 1Tb 1Kg laptop asus",
       "variant_description": "green 1Tb 1Kg",
-      "price": 35863
-    },
-    {
-      "color": "green",
-      "storage": "1Tb",
-      "weight": "1.02Kg",
-      "ram": "8gb",
-      "variant_name": "green 1Tb 1.02Kg laptop asus",
-      "variant_description": "green 1Tb 1.02Kg",
-      "price": 81597
-    },
-    {
-      "color": "green",
-      "storage": "1Tb",
-      "weight": "1.02Kg",
-      "ram": "16gb",
-      "variant_name": "green 1Tb 1.02Kg laptop asus",
-      "variant_description": "green 1Tb 1.02Kg",
-      "price": 84023
-    },
-    {
-      "color": "green",
-      "storage": "1Tb",
-      "weight": "1.02Kg",
-      "ram": "32Gb",
-      "variant_name": "green 1Tb 1.02Kg laptop asus",
-      "variant_description": "green 1Tb 1.02Kg",
-      "price": 8963
-    },
-    {
-      "color": "green",
-      "storage": "1Tb",
-      "weight": "1.5kg",
-      "ram": "8gb",
-      "variant_name": "green 1Tb 1.5kg laptop asus",
-      "variant_description": "green 1Tb 1.5kg",
-      "price": 98543
-    },
-    {
-      "color": "green",
-      "storage": "1Tb",
-      "weight": "1.5kg",
-      "ram": "16gb",
-      "variant_name": "green 1Tb 1.5kg laptop asus",
-      "variant_description": "green 1Tb 1.5kg",
-      "price": 68374
-    },
-    {
-      "color": "green",
-      "storage": "1Tb",
-      "weight": "1.5kg",
-      "ram": "32Gb",
-      "variant_name": "green 1Tb 1.5kg laptop asus",
-      "variant_description": "green 1Tb 1.5kg",
-      "price": 72298
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1Kg",
-      "ram": "8gb",
-      "variant_name": "green 2Tb 1Kg laptop asus",
-      "variant_description": "green 2Tb 1Kg",
-      "price": 60434
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1Kg",
-      "ram": "16gb",
-      "variant_name": "green 2Tb 1Kg laptop asus",
-      "variant_description": "green 2Tb 1Kg",
-      "price": 24537
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1Kg",
-      "ram": "32Gb",
-      "variant_name": "green 2Tb 1Kg laptop asus",
-      "variant_description": "green 2Tb 1Kg",
-      "price": 57255
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1.02Kg",
-      "ram": "8gb",
-      "variant_name": "green 2Tb 1.02Kg laptop asus",
-      "variant_description": "green 2Tb 1.02Kg",
-      "price": 18431
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1.02Kg",
-      "ram": "16gb",
-      "variant_name": "green 2Tb 1.02Kg laptop asus",
-      "variant_description": "green 2Tb 1.02Kg",
-      "price": 811
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1.02Kg",
-      "ram": "32Gb",
-      "variant_name": "green 2Tb 1.02Kg laptop asus",
-      "variant_description": "green 2Tb 1.02Kg",
-      "price": 33225
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1.5kg",
-      "ram": "8gb",
-      "variant_name": "green 2Tb 1.5kg laptop asus",
-      "variant_description": "green 2Tb 1.5kg",
-      "price": 49404
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1.5kg",
-      "ram": "16gb",
-      "variant_name": "green 2Tb 1.5kg laptop asus",
-      "variant_description": "green 2Tb 1.5kg",
-      "price": 95977
-    },
-    {
-      "color": "green",
-      "storage": "2Tb",
-      "weight": "1.5kg",
-      "ram": "32Gb",
-      "variant_name": "green 2Tb 1.5kg laptop asus",
-      "variant_description": "green 2Tb 1.5kg",
-      "price": 28694
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1Kg",
-      "ram": "8gb",
-      "variant_name": "blue 128Gb 1Kg laptop asus",
-      "variant_description": "blue 128Gb 1Kg",
-      "price": 77657
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1Kg",
-      "ram": "16gb",
-      "variant_name": "blue 128Gb 1Kg laptop asus",
-      "variant_description": "blue 128Gb 1Kg",
-      "price": 86706
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 128Gb 1Kg laptop asus",
-      "variant_description": "blue 128Gb 1Kg",
-      "price": 32111
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1.02Kg",
-      "ram": "8gb",
-      "variant_name": "blue 128Gb 1.02Kg laptop asus",
-      "variant_description": "blue 128Gb 1.02Kg",
-      "price": 35054
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1.02Kg",
-      "ram": "16gb",
-      "variant_name": "blue 128Gb 1.02Kg laptop asus",
-      "variant_description": "blue 128Gb 1.02Kg",
-      "price": 55538
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1.02Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 128Gb 1.02Kg laptop asus",
-      "variant_description": "blue 128Gb 1.02Kg",
-      "price": 93462
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1.5kg",
-      "ram": "8gb",
-      "variant_name": "blue 128Gb 1.5kg laptop asus",
-      "variant_description": "blue 128Gb 1.5kg",
-      "price": 83171
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1.5kg",
-      "ram": "16gb",
-      "variant_name": "blue 128Gb 1.5kg laptop asus",
-      "variant_description": "blue 128Gb 1.5kg",
-      "price": 94704
-    },
-    {
-      "color": "blue",
-      "storage": "128Gb",
-      "weight": "1.5kg",
-      "ram": "32Gb",
-      "variant_name": "blue 128Gb 1.5kg laptop asus",
-      "variant_description": "blue 128Gb 1.5kg",
-      "price": 54170
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1Kg",
-      "ram": "8gb",
-      "variant_name": "blue 512Gb 1Kg laptop asus",
-      "variant_description": "blue 512Gb 1Kg",
-      "price": 89928
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1Kg",
-      "ram": "16gb",
-      "variant_name": "blue 512Gb 1Kg laptop asus",
-      "variant_description": "blue 512Gb 1Kg",
-      "price": 32314
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 512Gb 1Kg laptop asus",
-      "variant_description": "blue 512Gb 1Kg",
-      "price": 81723
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1.02Kg",
-      "ram": "8gb",
-      "variant_name": "blue 512Gb 1.02Kg laptop asus",
-      "variant_description": "blue 512Gb 1.02Kg",
-      "price": 2755
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1.02Kg",
-      "ram": "16gb",
-      "variant_name": "blue 512Gb 1.02Kg laptop asus",
-      "variant_description": "blue 512Gb 1.02Kg",
-      "price": 69502
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1.02Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 512Gb 1.02Kg laptop asus",
-      "variant_description": "blue 512Gb 1.02Kg",
-      "price": 9020
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1.5kg",
-      "ram": "8gb",
-      "variant_name": "blue 512Gb 1.5kg laptop asus",
-      "variant_description": "blue 512Gb 1.5kg",
-      "price": 58818
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1.5kg",
-      "ram": "16gb",
-      "variant_name": "blue 512Gb 1.5kg laptop asus",
-      "variant_description": "blue 512Gb 1.5kg",
-      "price": 73299
-    },
-    {
-      "color": "blue",
-      "storage": "512Gb",
-      "weight": "1.5kg",
-      "ram": "32Gb",
-      "variant_name": "blue 512Gb 1.5kg laptop asus",
-      "variant_description": "blue 512Gb 1.5kg",
-      "price": 37717
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1Kg",
-      "ram": "8gb",
-      "variant_name": "blue 1Tb 1Kg laptop asus",
-      "variant_description": "blue 1Tb 1Kg",
-      "price": 59969
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1Kg",
-      "ram": "16gb",
-      "variant_name": "blue 1Tb 1Kg laptop asus",
-      "variant_description": "blue 1Tb 1Kg",
-      "price": 86476
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 1Tb 1Kg laptop asus",
-      "variant_description": "blue 1Tb 1Kg",
-      "price": 32678
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1.02Kg",
-      "ram": "8gb",
-      "variant_name": "blue 1Tb 1.02Kg laptop asus",
-      "variant_description": "blue 1Tb 1.02Kg",
-      "price": 59783
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1.02Kg",
-      "ram": "16gb",
-      "variant_name": "blue 1Tb 1.02Kg laptop asus",
-      "variant_description": "blue 1Tb 1.02Kg",
-      "price": 9503
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1.02Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 1Tb 1.02Kg laptop asus",
-      "variant_description": "blue 1Tb 1.02Kg",
-      "price": 14247
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1.5kg",
-      "ram": "8gb",
-      "variant_name": "blue 1Tb 1.5kg laptop asus",
-      "variant_description": "blue 1Tb 1.5kg",
-      "price": 14530
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1.5kg",
-      "ram": "16gb",
-      "variant_name": "blue 1Tb 1.5kg laptop asus",
-      "variant_description": "blue 1Tb 1.5kg",
-      "price": 39181
-    },
-    {
-      "color": "blue",
-      "storage": "1Tb",
-      "weight": "1.5kg",
-      "ram": "32Gb",
-      "variant_name": "blue 1Tb 1.5kg laptop asus",
-      "variant_description": "blue 1Tb 1.5kg",
-      "price": 67344
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1Kg",
-      "ram": "8gb",
-      "variant_name": "blue 2Tb 1Kg laptop asus",
-      "variant_description": "blue 2Tb 1Kg",
-      "price": 51500
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1Kg",
-      "ram": "16gb",
-      "variant_name": "blue 2Tb 1Kg laptop asus",
-      "variant_description": "blue 2Tb 1Kg",
-      "price": 12403
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 2Tb 1Kg laptop asus",
-      "variant_description": "blue 2Tb 1Kg",
-      "price": 31529
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1.02Kg",
-      "ram": "8gb",
-      "variant_name": "blue 2Tb 1.02Kg laptop asus",
-      "variant_description": "blue 2Tb 1.02Kg",
-      "price": 92252
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1.02Kg",
-      "ram": "16gb",
-      "variant_name": "blue 2Tb 1.02Kg laptop asus",
-      "variant_description": "blue 2Tb 1.02Kg",
-      "price": 62808
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1.02Kg",
-      "ram": "32Gb",
-      "variant_name": "blue 2Tb 1.02Kg laptop asus",
-      "variant_description": "blue 2Tb 1.02Kg",
-      "price": 20760
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1.5kg",
-      "ram": "8gb",
-      "variant_name": "blue 2Tb 1.5kg laptop asus",
-      "variant_description": "blue 2Tb 1.5kg",
-      "price": 58942
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1.5kg",
-      "ram": "16gb",
-      "variant_name": "blue 2Tb 1.5kg laptop asus",
-      "variant_description": "blue 2Tb 1.5kg",
-      "price": 22306
-    },
-    {
-      "color": "blue",
-      "storage": "2Tb",
-      "weight": "1.5kg",
-      "ram": "32Gb",
-      "variant_name": "blue 2Tb 1.5kg laptop asus",
-      "variant_description": "blue 2Tb 1.5kg",
-      "price": 11886
-    },
-    {
-      "color": "yellow",
-      "storage": "128Gb",
-      "weight": "1Kg",
-      "ram": "8gb",
-      "variant_name": "yellow 128Gb 1Kg laptop asus",
-      "variant_description": "yellow 128Gb 1Kg",
       "price": 99269
     },
     {
+      "color": "green",
+      "storage": "1Tb",
+      "weight": "1.02Kg",
+      "ram": "8gb",
+      "variant_name": "green 1Tb 1.02Kg laptop asus",
+      "variant_description": "green 1Tb 1.02Kg",
+      "price": 7401
+    },
+    {
+      "color": "green",
+      "storage": "1Tb",
+      "weight": "1.02Kg",
+      "ram": "16gb",
+      "variant_name": "green 1Tb 1.02Kg laptop asus",
+      "variant_description": "green 1Tb 1.02Kg",
+      "price": 29246
+    },
+    {
+      "color": "green",
+      "storage": "1Tb",
+      "weight": "1.02Kg",
+      "ram": "32Gb",
+      "variant_name": "green 1Tb 1.02Kg laptop asus",
+      "variant_description": "green 1Tb 1.02Kg",
+      "price": 65628
+    },
+    {
+      "color": "green",
+      "storage": "1Tb",
+      "weight": "1.5kg",
+      "ram": "8gb",
+      "variant_name": "green 1Tb 1.5kg laptop asus",
+      "variant_description": "green 1Tb 1.5kg",
+      "price": 98359
+    },
+    {
+      "color": "green",
+      "storage": "1Tb",
+      "weight": "1.5kg",
+      "ram": "16gb",
+      "variant_name": "green 1Tb 1.5kg laptop asus",
+      "variant_description": "green 1Tb 1.5kg",
+      "price": 84830
+    },
+    {
+      "color": "green",
+      "storage": "1Tb",
+      "weight": "1.5kg",
+      "ram": "32Gb",
+      "variant_name": "green 1Tb 1.5kg laptop asus",
+      "variant_description": "green 1Tb 1.5kg",
+      "price": 78355
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1Kg",
+      "ram": "8gb",
+      "variant_name": "green 2Tb 1Kg laptop asus",
+      "variant_description": "green 2Tb 1Kg",
+      "price": 93179
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1Kg",
+      "ram": "16gb",
+      "variant_name": "green 2Tb 1Kg laptop asus",
+      "variant_description": "green 2Tb 1Kg",
+      "price": 55215
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1Kg",
+      "ram": "32Gb",
+      "variant_name": "green 2Tb 1Kg laptop asus",
+      "variant_description": "green 2Tb 1Kg",
+      "price": 35171
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1.02Kg",
+      "ram": "8gb",
+      "variant_name": "green 2Tb 1.02Kg laptop asus",
+      "variant_description": "green 2Tb 1.02Kg",
+      "price": 96965
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1.02Kg",
+      "ram": "16gb",
+      "variant_name": "green 2Tb 1.02Kg laptop asus",
+      "variant_description": "green 2Tb 1.02Kg",
+      "price": 55669
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1.02Kg",
+      "ram": "32Gb",
+      "variant_name": "green 2Tb 1.02Kg laptop asus",
+      "variant_description": "green 2Tb 1.02Kg",
+      "price": 27912
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1.5kg",
+      "ram": "8gb",
+      "variant_name": "green 2Tb 1.5kg laptop asus",
+      "variant_description": "green 2Tb 1.5kg",
+      "price": 74632
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1.5kg",
+      "ram": "16gb",
+      "variant_name": "green 2Tb 1.5kg laptop asus",
+      "variant_description": "green 2Tb 1.5kg",
+      "price": 88305
+    },
+    {
+      "color": "green",
+      "storage": "2Tb",
+      "weight": "1.5kg",
+      "ram": "32Gb",
+      "variant_name": "green 2Tb 1.5kg laptop asus",
+      "variant_description": "green 2Tb 1.5kg",
+      "price": 77090
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1Kg",
+      "ram": "8gb",
+      "variant_name": "blue 128Gb 1Kg laptop asus",
+      "variant_description": "blue 128Gb 1Kg",
+      "price": 2614
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1Kg",
+      "ram": "16gb",
+      "variant_name": "blue 128Gb 1Kg laptop asus",
+      "variant_description": "blue 128Gb 1Kg",
+      "price": 53289
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 128Gb 1Kg laptop asus",
+      "variant_description": "blue 128Gb 1Kg",
+      "price": 53035
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1.02Kg",
+      "ram": "8gb",
+      "variant_name": "blue 128Gb 1.02Kg laptop asus",
+      "variant_description": "blue 128Gb 1.02Kg",
+      "price": 34644
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1.02Kg",
+      "ram": "16gb",
+      "variant_name": "blue 128Gb 1.02Kg laptop asus",
+      "variant_description": "blue 128Gb 1.02Kg",
+      "price": 78709
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1.02Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 128Gb 1.02Kg laptop asus",
+      "variant_description": "blue 128Gb 1.02Kg",
+      "price": 44086
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1.5kg",
+      "ram": "8gb",
+      "variant_name": "blue 128Gb 1.5kg laptop asus",
+      "variant_description": "blue 128Gb 1.5kg",
+      "price": 96178
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1.5kg",
+      "ram": "16gb",
+      "variant_name": "blue 128Gb 1.5kg laptop asus",
+      "variant_description": "blue 128Gb 1.5kg",
+      "price": 71500
+    },
+    {
+      "color": "blue",
+      "storage": "128Gb",
+      "weight": "1.5kg",
+      "ram": "32Gb",
+      "variant_name": "blue 128Gb 1.5kg laptop asus",
+      "variant_description": "blue 128Gb 1.5kg",
+      "price": 56488
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1Kg",
+      "ram": "8gb",
+      "variant_name": "blue 512Gb 1Kg laptop asus",
+      "variant_description": "blue 512Gb 1Kg",
+      "price": 82620
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1Kg",
+      "ram": "16gb",
+      "variant_name": "blue 512Gb 1Kg laptop asus",
+      "variant_description": "blue 512Gb 1Kg",
+      "price": 85815
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 512Gb 1Kg laptop asus",
+      "variant_description": "blue 512Gb 1Kg",
+      "price": 30090
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1.02Kg",
+      "ram": "8gb",
+      "variant_name": "blue 512Gb 1.02Kg laptop asus",
+      "variant_description": "blue 512Gb 1.02Kg",
+      "price": 45428
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1.02Kg",
+      "ram": "16gb",
+      "variant_name": "blue 512Gb 1.02Kg laptop asus",
+      "variant_description": "blue 512Gb 1.02Kg",
+      "price": 7293
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1.02Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 512Gb 1.02Kg laptop asus",
+      "variant_description": "blue 512Gb 1.02Kg",
+      "price": 91264
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1.5kg",
+      "ram": "8gb",
+      "variant_name": "blue 512Gb 1.5kg laptop asus",
+      "variant_description": "blue 512Gb 1.5kg",
+      "price": 20341
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1.5kg",
+      "ram": "16gb",
+      "variant_name": "blue 512Gb 1.5kg laptop asus",
+      "variant_description": "blue 512Gb 1.5kg",
+      "price": 31358
+    },
+    {
+      "color": "blue",
+      "storage": "512Gb",
+      "weight": "1.5kg",
+      "ram": "32Gb",
+      "variant_name": "blue 512Gb 1.5kg laptop asus",
+      "variant_description": "blue 512Gb 1.5kg",
+      "price": 15079
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1Kg",
+      "ram": "8gb",
+      "variant_name": "blue 1Tb 1Kg laptop asus",
+      "variant_description": "blue 1Tb 1Kg",
+      "price": 94183
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1Kg",
+      "ram": "16gb",
+      "variant_name": "blue 1Tb 1Kg laptop asus",
+      "variant_description": "blue 1Tb 1Kg",
+      "price": 68444
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 1Tb 1Kg laptop asus",
+      "variant_description": "blue 1Tb 1Kg",
+      "price": 66562
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1.02Kg",
+      "ram": "8gb",
+      "variant_name": "blue 1Tb 1.02Kg laptop asus",
+      "variant_description": "blue 1Tb 1.02Kg",
+      "price": 74861
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1.02Kg",
+      "ram": "16gb",
+      "variant_name": "blue 1Tb 1.02Kg laptop asus",
+      "variant_description": "blue 1Tb 1.02Kg",
+      "price": 75147
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1.02Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 1Tb 1.02Kg laptop asus",
+      "variant_description": "blue 1Tb 1.02Kg",
+      "price": 28022
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1.5kg",
+      "ram": "8gb",
+      "variant_name": "blue 1Tb 1.5kg laptop asus",
+      "variant_description": "blue 1Tb 1.5kg",
+      "price": 27465
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1.5kg",
+      "ram": "16gb",
+      "variant_name": "blue 1Tb 1.5kg laptop asus",
+      "variant_description": "blue 1Tb 1.5kg",
+      "price": 35870
+    },
+    {
+      "color": "blue",
+      "storage": "1Tb",
+      "weight": "1.5kg",
+      "ram": "32Gb",
+      "variant_name": "blue 1Tb 1.5kg laptop asus",
+      "variant_description": "blue 1Tb 1.5kg",
+      "price": 81566
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1Kg",
+      "ram": "8gb",
+      "variant_name": "blue 2Tb 1Kg laptop asus",
+      "variant_description": "blue 2Tb 1Kg",
+      "price": 30957
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1Kg",
+      "ram": "16gb",
+      "variant_name": "blue 2Tb 1Kg laptop asus",
+      "variant_description": "blue 2Tb 1Kg",
+      "price": 33596
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 2Tb 1Kg laptop asus",
+      "variant_description": "blue 2Tb 1Kg",
+      "price": 29631
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1.02Kg",
+      "ram": "8gb",
+      "variant_name": "blue 2Tb 1.02Kg laptop asus",
+      "variant_description": "blue 2Tb 1.02Kg",
+      "price": 17778
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1.02Kg",
+      "ram": "16gb",
+      "variant_name": "blue 2Tb 1.02Kg laptop asus",
+      "variant_description": "blue 2Tb 1.02Kg",
+      "price": 73372
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1.02Kg",
+      "ram": "32Gb",
+      "variant_name": "blue 2Tb 1.02Kg laptop asus",
+      "variant_description": "blue 2Tb 1.02Kg",
+      "price": 57599
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1.5kg",
+      "ram": "8gb",
+      "variant_name": "blue 2Tb 1.5kg laptop asus",
+      "variant_description": "blue 2Tb 1.5kg",
+      "price": 38005
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1.5kg",
+      "ram": "16gb",
+      "variant_name": "blue 2Tb 1.5kg laptop asus",
+      "variant_description": "blue 2Tb 1.5kg",
+      "price": 43985
+    },
+    {
+      "color": "blue",
+      "storage": "2Tb",
+      "weight": "1.5kg",
+      "ram": "32Gb",
+      "variant_name": "blue 2Tb 1.5kg laptop asus",
+      "variant_description": "blue 2Tb 1.5kg",
+      "price": 71510
+    },
+    {
+      "color": "yellow",
+      "storage": "128Gb",
+      "weight": "1Kg",
+      "ram": "8gb",
+      "variant_name": "yellow 128Gb 1Kg laptop asus",
+      "variant_description": "yellow 128Gb 1Kg",
+      "price": 9096
+    },
+    {
       "color": "yellow",
       "storage": "128Gb",
       "weight": "1Kg",
       "ram": "16gb",
       "variant_name": "yellow 128Gb 1Kg laptop asus",
       "variant_description": "yellow 128Gb 1Kg",
-      "price": 96065
+      "price": 52940
     },
     {
       "color": "yellow",
@@ -1041,7 +1041,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 128Gb 1Kg laptop asus",
       "variant_description": "yellow 128Gb 1Kg",
-      "price": 25655
+      "price": 95353
     },
     {
       "color": "yellow",
@@ -1050,7 +1050,7 @@
       "ram": "8gb",
       "variant_name": "yellow 128Gb 1.02Kg laptop asus",
       "variant_description": "yellow 128Gb 1.02Kg",
-      "price": 94193
+      "price": 30053
     },
     {
       "color": "yellow",
@@ -1059,7 +1059,7 @@
       "ram": "16gb",
       "variant_name": "yellow 128Gb 1.02Kg laptop asus",
       "variant_description": "yellow 128Gb 1.02Kg",
-      "price": 98241
+      "price": 47178
     },
     {
       "color": "yellow",
@@ -1068,7 +1068,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 128Gb 1.02Kg laptop asus",
       "variant_description": "yellow 128Gb 1.02Kg",
-      "price": 97738
+      "price": 2010
     },
     {
       "color": "yellow",
@@ -1077,7 +1077,7 @@
       "ram": "8gb",
       "variant_name": "yellow 128Gb 1.5kg laptop asus",
       "variant_description": "yellow 128Gb 1.5kg",
-      "price": 59826
+      "price": 49640
     },
     {
       "color": "yellow",
@@ -1086,7 +1086,7 @@
       "ram": "16gb",
       "variant_name": "yellow 128Gb 1.5kg laptop asus",
       "variant_description": "yellow 128Gb 1.5kg",
-      "price": 52314
+      "price": 35283
     },
     {
       "color": "yellow",
@@ -1095,7 +1095,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 128Gb 1.5kg laptop asus",
       "variant_description": "yellow 128Gb 1.5kg",
-      "price": 7506
+      "price": 66827
     },
     {
       "color": "yellow",
@@ -1104,7 +1104,7 @@
       "ram": "8gb",
       "variant_name": "yellow 512Gb 1Kg laptop asus",
       "variant_description": "yellow 512Gb 1Kg",
-      "price": 49271
+      "price": 20828
     },
     {
       "color": "yellow",
@@ -1113,7 +1113,7 @@
       "ram": "16gb",
       "variant_name": "yellow 512Gb 1Kg laptop asus",
       "variant_description": "yellow 512Gb 1Kg",
-      "price": 96697
+      "price": 40173
     },
     {
       "color": "yellow",
@@ -1122,7 +1122,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 512Gb 1Kg laptop asus",
       "variant_description": "yellow 512Gb 1Kg",
-      "price": 78682
+      "price": 14615
     },
     {
       "color": "yellow",
@@ -1131,7 +1131,7 @@
       "ram": "8gb",
       "variant_name": "yellow 512Gb 1.02Kg laptop asus",
       "variant_description": "yellow 512Gb 1.02Kg",
-      "price": 30725
+      "price": 35267
     },
     {
       "color": "yellow",
@@ -1140,7 +1140,7 @@
       "ram": "16gb",
       "variant_name": "yellow 512Gb 1.02Kg laptop asus",
       "variant_description": "yellow 512Gb 1.02Kg",
-      "price": 17363
+      "price": 6322
     },
     {
       "color": "yellow",
@@ -1149,7 +1149,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 512Gb 1.02Kg laptop asus",
       "variant_description": "yellow 512Gb 1.02Kg",
-      "price": 75071
+      "price": 89148
     },
     {
       "color": "yellow",
@@ -1158,7 +1158,7 @@
       "ram": "8gb",
       "variant_name": "yellow 512Gb 1.5kg laptop asus",
       "variant_description": "yellow 512Gb 1.5kg",
-      "price": 36852
+      "price": 59309
     },
     {
       "color": "yellow",
@@ -1167,7 +1167,7 @@
       "ram": "16gb",
       "variant_name": "yellow 512Gb 1.5kg laptop asus",
       "variant_description": "yellow 512Gb 1.5kg",
-      "price": 86783
+      "price": 24197
     },
     {
       "color": "yellow",
@@ -1176,7 +1176,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 512Gb 1.5kg laptop asus",
       "variant_description": "yellow 512Gb 1.5kg",
-      "price": 37340
+      "price": 78834
     },
     {
       "color": "yellow",
@@ -1185,7 +1185,7 @@
       "ram": "8gb",
       "variant_name": "yellow 1Tb 1Kg laptop asus",
       "variant_description": "yellow 1Tb 1Kg",
-      "price": 37738
+      "price": 59906
     },
     {
       "color": "yellow",
@@ -1194,7 +1194,7 @@
       "ram": "16gb",
       "variant_name": "yellow 1Tb 1Kg laptop asus",
       "variant_description": "yellow 1Tb 1Kg",
-      "price": 31488
+      "price": 63188
     },
     {
       "color": "yellow",
@@ -1203,7 +1203,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 1Tb 1Kg laptop asus",
       "variant_description": "yellow 1Tb 1Kg",
-      "price": 51221
+      "price": 17512
     },
     {
       "color": "yellow",
@@ -1212,7 +1212,7 @@
       "ram": "8gb",
       "variant_name": "yellow 1Tb 1.02Kg laptop asus",
       "variant_description": "yellow 1Tb 1.02Kg",
-      "price": 23920
+      "price": 64081
     },
     {
       "color": "yellow",
@@ -1221,7 +1221,7 @@
       "ram": "16gb",
       "variant_name": "yellow 1Tb 1.02Kg laptop asus",
       "variant_description": "yellow 1Tb 1.02Kg",
-      "price": 67949
+      "price": 72116
     },
     {
       "color": "yellow",
@@ -1230,7 +1230,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 1Tb 1.02Kg laptop asus",
       "variant_description": "yellow 1Tb 1.02Kg",
-      "price": 29857
+      "price": 40017
     },
     {
       "color": "yellow",
@@ -1239,7 +1239,7 @@
       "ram": "8gb",
       "variant_name": "yellow 1Tb 1.5kg laptop asus",
       "variant_description": "yellow 1Tb 1.5kg",
-      "price": 11
+      "price": 58756
     },
     {
       "color": "yellow",
@@ -1248,7 +1248,7 @@
       "ram": "16gb",
       "variant_name": "yellow 1Tb 1.5kg laptop asus",
       "variant_description": "yellow 1Tb 1.5kg",
-      "price": 19226
+      "price": 76536
     },
     {
       "color": "yellow",
@@ -1257,7 +1257,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 1Tb 1.5kg laptop asus",
       "variant_description": "yellow 1Tb 1.5kg",
-      "price": 72588
+      "price": 18636
     },
     {
       "color": "yellow",
@@ -1266,7 +1266,7 @@
       "ram": "8gb",
       "variant_name": "yellow 2Tb 1Kg laptop asus",
       "variant_description": "yellow 2Tb 1Kg",
-      "price": 6464
+      "price": 83385
     },
     {
       "color": "yellow",
@@ -1275,7 +1275,7 @@
       "ram": "16gb",
       "variant_name": "yellow 2Tb 1Kg laptop asus",
       "variant_description": "yellow 2Tb 1Kg",
-      "price": 34258
+      "price": 14369
     },
     {
       "color": "yellow",
@@ -1284,7 +1284,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 2Tb 1Kg laptop asus",
       "variant_description": "yellow 2Tb 1Kg",
-      "price": 40160
+      "price": 70806
     },
     {
       "color": "yellow",
@@ -1293,7 +1293,7 @@
       "ram": "8gb",
       "variant_name": "yellow 2Tb 1.02Kg laptop asus",
       "variant_description": "yellow 2Tb 1.02Kg",
-      "price": 74644
+      "price": 71539
     },
     {
       "color": "yellow",
@@ -1302,7 +1302,7 @@
       "ram": "16gb",
       "variant_name": "yellow 2Tb 1.02Kg laptop asus",
       "variant_description": "yellow 2Tb 1.02Kg",
-      "price": 46615
+      "price": 13601
     },
     {
       "color": "yellow",
@@ -1311,7 +1311,7 @@
       "ram": "32Gb",
       "variant_name": "yellow 2Tb 1.02Kg laptop asus",
       "variant_description": "yellow 2Tb 1.02Kg",
-      "price": 80357
+      "price": 388
     },
     {
       "color": "yellow",
@@ -1320,7 +1320,7 @@
       "ram": "8gb",
       "variant_name": "yellow 2Tb 1.5kg laptop asus",
       "variant_description": "yellow 2Tb 1.5kg",
-      "price": 31719
+      "price": 16927
     },
     {
       "color": "yellow",
@@ -1329,7 +1329,7 @@
       "ram": "16gb",
       "variant_name": "yellow 2Tb 1.5kg laptop asus",
       "variant_description": "yellow 2Tb 1.5kg",
-      "price": 59391
+      "price": 69743
     },
     {
       "color": "yellow",
@@ -1338,7 +1338,393 @@
       "ram": "32Gb",
       "variant_name": "yellow 2Tb 1.5kg laptop asus",
       "variant_description": "yellow 2Tb 1.5kg",
-      "price": 21824
+      "price": 66456
+    }
+  ],
+  "cpu": [
+    {
+      "frequency": "4000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "4000mhz 36 core cpu amd",
+      "variant_description": "4000mhz 36 core",
+      "price": 63799
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "4000mhz 36 core cpu amd",
+      "variant_description": "4000mhz 36 core",
+      "price": 52599
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "4000mhz 36 core cpu amd",
+      "variant_description": "4000mhz 36 core",
+      "price": 17596
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "4000mhz 40 core cpu amd",
+      "variant_description": "4000mhz 40 core",
+      "price": 93377
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "4000mhz 40 core cpu amd",
+      "variant_description": "4000mhz 40 core",
+      "price": 43824
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "4000mhz 40 core cpu amd",
+      "variant_description": "4000mhz 40 core",
+      "price": 46475
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "4000mhz 55 core cpu amd",
+      "variant_description": "4000mhz 55 core",
+      "price": 13932
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "4000mhz 55 core cpu amd",
+      "variant_description": "4000mhz 55 core",
+      "price": 7302
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "4000mhz 55 core cpu amd",
+      "variant_description": "4000mhz 55 core",
+      "price": 98732
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "4000mhz 60 core cpu amd",
+      "variant_description": "4000mhz 60 core",
+      "price": 29162
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "4000mhz 60 core cpu amd",
+      "variant_description": "4000mhz 60 core",
+      "price": 3045
+    },
+    {
+      "frequency": "4000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "4000mhz 60 core cpu amd",
+      "variant_description": "4000mhz 60 core",
+      "price": 45762
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "5000mhz 36 core cpu amd",
+      "variant_description": "5000mhz 36 core",
+      "price": 95910
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "5000mhz 36 core cpu amd",
+      "variant_description": "5000mhz 36 core",
+      "price": 63090
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "5000mhz 36 core cpu amd",
+      "variant_description": "5000mhz 36 core",
+      "price": 74572
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "5000mhz 40 core cpu amd",
+      "variant_description": "5000mhz 40 core",
+      "price": 35986
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "5000mhz 40 core cpu amd",
+      "variant_description": "5000mhz 40 core",
+      "price": 67607
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "5000mhz 40 core cpu amd",
+      "variant_description": "5000mhz 40 core",
+      "price": 66979
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "5000mhz 55 core cpu amd",
+      "variant_description": "5000mhz 55 core",
+      "price": 96874
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "5000mhz 55 core cpu amd",
+      "variant_description": "5000mhz 55 core",
+      "price": 86479
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "5000mhz 55 core cpu amd",
+      "variant_description": "5000mhz 55 core",
+      "price": 33144
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "5000mhz 60 core cpu amd",
+      "variant_description": "5000mhz 60 core",
+      "price": 21529
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "5000mhz 60 core cpu amd",
+      "variant_description": "5000mhz 60 core",
+      "price": 20597
+    },
+    {
+      "frequency": "5000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "5000mhz 60 core cpu amd",
+      "variant_description": "5000mhz 60 core",
+      "price": 37381
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "6000mhz 36 core cpu amd",
+      "variant_description": "6000mhz 36 core",
+      "price": 52323
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "6000mhz 36 core cpu amd",
+      "variant_description": "6000mhz 36 core",
+      "price": 69817
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "6000mhz 36 core cpu amd",
+      "variant_description": "6000mhz 36 core",
+      "price": 86754
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "6000mhz 40 core cpu amd",
+      "variant_description": "6000mhz 40 core",
+      "price": 74181
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "6000mhz 40 core cpu amd",
+      "variant_description": "6000mhz 40 core",
+      "price": 70369
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "6000mhz 40 core cpu amd",
+      "variant_description": "6000mhz 40 core",
+      "price": 48308
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "6000mhz 55 core cpu amd",
+      "variant_description": "6000mhz 55 core",
+      "price": 86518
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "6000mhz 55 core cpu amd",
+      "variant_description": "6000mhz 55 core",
+      "price": 31758
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "6000mhz 55 core cpu amd",
+      "variant_description": "6000mhz 55 core",
+      "price": 86746
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "6000mhz 60 core cpu amd",
+      "variant_description": "6000mhz 60 core",
+      "price": 56154
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "6000mhz 60 core cpu amd",
+      "variant_description": "6000mhz 60 core",
+      "price": 48498
+    },
+    {
+      "frequency": "6000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "6000mhz 60 core cpu amd",
+      "variant_description": "6000mhz 60 core",
+      "price": 42812
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "7000mhz 36 core cpu amd",
+      "variant_description": "7000mhz 36 core",
+      "price": 78121
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "7000mhz 36 core cpu amd",
+      "variant_description": "7000mhz 36 core",
+      "price": 12650
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "36 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "7000mhz 36 core cpu amd",
+      "variant_description": "7000mhz 36 core",
+      "price": 15123
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "7000mhz 40 core cpu amd",
+      "variant_description": "7000mhz 40 core",
+      "price": 99383
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "7000mhz 40 core cpu amd",
+      "variant_description": "7000mhz 40 core",
+      "price": 70681
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "40 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "7000mhz 40 core cpu amd",
+      "variant_description": "7000mhz 40 core",
+      "price": 48393
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "7000mhz 55 core cpu amd",
+      "variant_description": "7000mhz 55 core",
+      "price": 71494
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "7000mhz 55 core cpu amd",
+      "variant_description": "7000mhz 55 core",
+      "price": 77495
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "55 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "7000mhz 55 core cpu amd",
+      "variant_description": "7000mhz 55 core",
+      "price": 3090
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "8Gb  vram",
+      "variant_name": "7000mhz 60 core cpu amd",
+      "variant_description": "7000mhz 60 core",
+      "price": 30084
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "10Gb vram",
+      "variant_name": "7000mhz 60 core cpu amd",
+      "variant_description": "7000mhz 60 core",
+      "price": 36166
+    },
+    {
+      "frequency": "7000mhz",
+      "core_count": "60 core",
+      "virtual_memory": "16gb varm",
+      "variant_name": "7000mhz 60 core cpu amd",
+      "variant_description": "7000mhz 60 core",
+      "price": 6379
     }
   ]
 }

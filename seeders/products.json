@@ -10,7 +10,8 @@
   },
   "product_name": "iPhone",
   "description_product": "this is very costly"
-}, {
+}, 
+{
   "company_name": "asus",
   "attr": [
     "color", 
@@ -25,5 +26,34 @@
     "storage": ["128Gb", "512Gb", "1Tb", "2Tb"], 
     "weight": ["1Kg", "1.02Kg", "1.5kg"],
     "ram": ["8gb", "16gb", "32Gb"]
+  }
+},
+{
+    "company_name": "amd",
+    "description_product": "Cpu",
+    "attr": [
+      "frequency",
+      "core_count"
+    ],
+    "product_name": "cpu",
+    "values": {
+      "frequency": ["2000mhz", "3000mhz", "5000mhz", "4200mhz"],
+      "core_count": ["2 core", "4 core", "6 core", "8 core"]
+    }
+}, 
+{
+  "company_name": "amd",
+  "description_product": "GPU",
+  "attr": [
+    "frequency",
+    "core_count",
+    "virtual_memory",
+    "tdp"    
+  ],
+  "product_name": "cpu",
+  "values": {
+    "frequency": ["4000mhz", "5000mhz", "6000mhz", "7000mhz"],
+    "core_count": ["36 core", "40 core", "55 core", "60 core"],
+    "virtual_memory": ["8Gb  vram", "10Gb vram", "16gb varm"]
   }
 }]
