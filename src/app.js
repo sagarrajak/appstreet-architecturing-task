@@ -62,6 +62,11 @@ if (process.platform === 'linux') {
   } else {
     await sequelize.sync();
     app.use('/', mainModule(sequelize));
+    app.use('*', (req, res) => {
+      res.status(400).json({
+        message: 'Invalid route',
+      });
+    });
   }
   http.createServer(app);
   app.listen(process.env.APP_PORT || 3000, () => {

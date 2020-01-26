@@ -12,7 +12,8 @@
     "build:dev:run": "docker-compose -f docker-compose.dev.yml up --force-recreate --build -d",
     "build:prod:run": "docker-compose up --force-recreate --build -d",
     "migration": "npx sequelize-cli db:migrate",
-    "dev:postgres:up": "docker run -e POSTGRES_PASSWORD=sagar -p 5432:5432  -d postgres"
+    "dev:postgres:up": "docker run -e POSTGRES_PASSWORD=sagar -p 5432:5432  -d postgres",
+    "seed": "node seeders/inittable.js"
   },
   "author": "",
   "license": "ISC",
