@@ -29,6 +29,7 @@ if (_.isNil(process.env.NODE_ENV)) {
 
 const sequelizeConnect = require('../sequelize/sequelize');
 const modelsModule = require('../models/main');
+const viewsModule = require('../models/views/index');
 
 const getAllAttributesId = (sequelize, attributes, productId) => {
   const Attribute = attributeModel(sequelize);
@@ -98,6 +99,7 @@ const seedFunction = async (sequelize) => {
   } else {
     await sequelize.sync();
   }
+  await viewsModule(sequelize);
   await seedFunction(sequelize);
   logger.info('Data Seeded successfully');
 })();

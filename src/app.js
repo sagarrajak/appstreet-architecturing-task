@@ -35,6 +35,7 @@ if (_.isNil(process.env.NODE_ENV)) {
 const sequelizeConnect = require('../sequelize/sequelize');
 const mainModule = require('../src/routes');
 const modelsModule = require('../models/main');
+const viewModule = require('../models/views/index');
 
 app.use(helmet());
 app.use(cors());
@@ -59,8 +60,10 @@ if (process.platform === 'linux') {
   await modelsModule(sequelize);
   if (nodeEnv === TESTING) {
     await sequelize.sync({ force: true });
+    await viewModule(sequelize); // init views
   } else {
     await sequelize.sync();
+    await viewModule(sequelize); // init views
     app.use('/', mainModule(sequelize));
     app.use('*', (req, res) => {
       res.status(400).json({
