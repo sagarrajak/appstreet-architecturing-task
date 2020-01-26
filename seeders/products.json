@@ -4,6 +4,26 @@
     "color",
     "storage"
   ],
+  "values": {
+    "color": ["red", "green", "blue"],
+    "storage": ["128Gb", "512Gb"]
+  },
   "product_name": "iPhone",
-  "description_product": "bla bla bla"
+  "description_product": "this is very costly"
+}, {
+  "company_name": "asus",
+  "attr": [
+    "color", 
+    "storage", 
+    "weight",
+    "ram"
+  ],
+  "product_name": "laptop",
+  "description_product": "Cheap laptop",
+  "values": {
+    "color": ["red", "green", "blue", "yellow"], 
+    "storage": ["128Gb", "512Gb", "1Tb", "2Tb"], 
+    "weight": ["1Kg", "1.02Kg", "1.5kg"],
+    "ram": ["8gb", "16gb", "32Gb"]
+  }
 }]
