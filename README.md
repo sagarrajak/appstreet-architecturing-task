@@ -70,9 +70,8 @@
     Will give product with red attribute  or 1Tb attribute   
     Default filter mechanism is union
 
- example of /list
- ---
- [{
+ ## example of /list
+    [{
         "product_id": 2,
         "variant_name": "red 128Gb 1.02Kg laptop asus",
         "variant_description": "red 128Gb 1.02Kg",
@@ -100,7 +99,6 @@
         "weight": "1.5kg",
         "ram": "16gb"
     }]
-    ---
 ### /details/:id
 Where id is varient_id when you fetch list you will get **variant_id** with that varient and all the sibling products.
 
