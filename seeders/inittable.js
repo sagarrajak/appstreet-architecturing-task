@@ -69,24 +69,30 @@ const seedFunction = async (sequelize) => {
   const attrMaps = {};
   const Product = productModel(sequelize);
 
-  productsJSON.forEach(async (product) => {
+  const getProductPromise = async (product) => {
     const createdProduct = await Product.create({
       ...product,
     });
-    const attributesArray = await getAllAttributesId(sequelize,
+    const attributesArray = await getAllAttributesId(
+      sequelize,
       product.attr || [],
-      createdProduct.id); // get all created attributes
-
+      createdProduct.id,
+    ); // get all created attributes
     product.attr.forEach((attr, index) => {
       attrMaps[attr] = attributesArray[index]; // map created attributes
     });
-
     if (product.product_name && variantJSON[product.product_name]) {
-      variantJSON[product.product_name].forEach(async (variant) => {
-        const createdVariant = await variantCreator(sequelize, attrMaps, createdProduct.id, variant);
-      });
+      const varientCreator = async (variant) => {
+        const variantCreated = await variantCreator(sequelize, attrMaps, createdProduct.id, variant);
+        return variantCreated;
+      };
+      const ans = await Promise.all(variantJSON[product.product_name].map((variant) => varientCreator(variant)));
+      return ans;
     }
-  });
+    return null;
+  };
+  const productPromiseMap = await Promise.all(productsJSON.map((product) => getProductPromise(product)));
+  return productPromiseMap;
 };
 
 (async () => {
@@ -94,13 +100,13 @@ const seedFunction = async (sequelize) => {
   logger.info('Connected to database');
   await modelsModule(sequelize);
   if (nodeEnv !== PRODUCTION) {
-    logger.info('Deleting everting...');
+    logger.info('Deleting everyting...');
     await sequelize.sync({ force: true }); // delete everything when testing or development
   } else {
     await sequelize.sync();
   }
   await viewsModule(sequelize);
   await seedFunction(sequelize);
-  logger.info('Data Seeded successfully');
+  logger.info('Data seeded!');
   process.exit(0);
 })();
