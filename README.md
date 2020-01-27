@@ -2,11 +2,11 @@
 
 # how to setup?
   - go to env folder 
-  - created four file name 
-  - development.env
-  - production.env
-  - testing.env
-  - node_env.env
+  - create four file 
+  - 1) development.env
+  - 2) production.env
+  - 3) testing.env
+  - 4) node_env.env
     then edit the node_env.env file and put 
     NODE_ENV=development for development environment
     NODE_ENV=production for production environment 
@@ -18,10 +18,10 @@
  - POSTGRES_DATABASE=<database name>
  - POSTGRES_USER=<database user>
  - POSTGRES_PASSWORD=<database password>
- - POSTGRES_HOST=<databse host>
+ - POSTGRES_HOST=<database host>
  - POSTGRES_PORT=<database port default 5432> 
  - APP_PORT=<application running port, default 3000>
- - now you are alomost ready for development environment 
+ - now you are almost ready for development environment 
  - run "npm i" 
  - run "npm run migration"
  - run "npm run seed"
@@ -40,10 +40,10 @@
  - POSTGRES_DATABASE=<database name>
  - POSTGRES_USER=<database user>
  - POSTGRES_PASSWORD=<database password>
- - POSTGRES_HOST=<databse host>
+ - POSTGRES_HOST=<database host>
  - POSTGRES_PORT=<database port default 5432> 
  - APP_PORT=<application running port, default 3000>
- - now you are alomost ready for development environment 
+ - now you are almost ready for development environment 
  - run **npm i** 
  - run ***npm run migration***
  - run ***npm run seed***
