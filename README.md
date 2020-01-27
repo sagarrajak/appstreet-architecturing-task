@@ -55,4 +55,144 @@
  - run **npm run build:prod** for building production docker container   
  - run **npm run build:prod:run** for building and running in production docker container  
  - default port maping is ***3000 to 3000*** application port and server port 
- 
+
+
+### /list 
+    This endpoint will give all the products and there varients
+    We can filter products by search query params    
+    - ?search=iPhone  
+    - ?search=cpu
+    - ?search=amd
+    - ?search=laptop  
+    Query params filter will filter specific product
+    For example 
+    - ?filter=red&filter=1Tb 
+    Will give product with red attribute  or 1Tb attribute   
+    Default filter mechanism is union
+
+ example of /list
+ ---
+ [{
+        "product_id": 2,
+        "variant_name": "red 128Gb 1.02Kg laptop asus",
+        "variant_description": "red 128Gb 1.02Kg",
+        "price": 73326,
+        "variant_id": 13,
+        "product_name": "laptop",
+        "description_product": "Cheap laptop",
+        "company_name": "asus",
+        "color": "red",
+        "storage": "128Gb",
+        "ram": "32Gb",
+        "weight": "1.02Kg"
+    },
+    {
+        "product_id": 2,
+        "variant_name": "red 128Gb 1.5kg laptop asus",
+        "variant_description": "red 128Gb 1.5kg",
+        "price": 71078,
+        "variant_id": 14,
+        "product_name": "laptop",
+        "description_product": "Cheap laptop",
+        "company_name": "asus",
+        "color": "red",
+        "storage": "128Gb",
+        "weight": "1.5kg",
+        "ram": "16gb"
+    }]
+    ---
+### /details/:id
+Where id is varient_id when you fetch list you will get **variant_id** with that varient and all the sibling products.
+
+### Example of details api
+#### /details/6 
+    
+    {
+    "siblingPurchasable": [
+        {
+            "product_id": 2,
+            "variant_name": "red 128Gb 1Kg laptop asus",
+            "variant_description": "red 128Gb 1Kg",
+            "price": 17538,
+            "variant_id": 6,
+            "product_name": "laptop",
+            "description_product": "Cheap laptop",
+            "company_name": "asus",
+            "color": "red",
+            "storage": "128Gb",
+            "weight": "1Kg",
+            "ram": "16gb"
+        },
+        {
+            "product_id": 2,
+            "variant_name": "red 128Gb 1Kg laptop asus",
+            "variant_description": "red 128Gb 1Kg",
+            "price": 48070,
+            "variant_id": 8,
+            "product_name": "laptop",
+            "description_product": "Cheap laptop",
+            "company_name": "asus",
+            "color": "red",
+            "weight": "1Kg",
+            "storage": "128Gb",
+            "ram": "32Gb"
+        },
+        {
+            "product_id": 2,
+            "variant_name": "red 128Gb 1Kg laptop asus",
+            "variant_description": "red 128Gb 1Kg",
+            "price": 17021,
+            "variant_id": 9,
+            "product_name": "laptop",
+            "description_product": "Cheap laptop",
+            "company_name": "asus",
+            "weight": "1Kg",
+            "storage": "128Gb",
+            "color": "red",
+            "ram": "8gb"
+        },{
+            "product_id": 2,
+            "variant_name": "yellow 2Tb 1Kg laptop asus",
+            "variant_description": "yellow 2Tb 1Kg",
+            "price": 83385,
+            "variant_id": 142,
+            "product_name": "laptop",
+            "description_product": "Cheap laptop",
+            "company_name": "asus",
+            "storage": "2Tb",
+            "weight": "1Kg",
+            "ram": "8gb",
+            "color": "yellow"
+        },
+        {
+            "product_id": 2,
+            "variant_name": "yellow 2Tb 1.02Kg laptop asus",
+            "variant_description": "yellow 2Tb 1.02Kg",
+            "price": 388,
+            "variant_id": 146,
+            "product_name": "laptop",
+            "description_product": "Cheap laptop",
+            "company_name": "asus",
+            "ram": "32Gb",
+            "color": "yellow",
+            "weight": "1.02Kg",
+            "storage": "2Tb"
+        }
+    ],
+    "askedPurchasable": [
+        {
+            "product_id": 2,
+            "variant_name": "red 128Gb 1.5kg laptop asus",
+            "variant_description": "red 128Gb 1.5kg",
+            "price": 37300,
+            "variant_id": 12,
+            "product_name": "laptop",
+            "description_product": "Cheap laptop",
+            "company_name": "asus",
+            "color": "red",
+            "storage": "128Gb",
+            "weight": "1.5kg",
+            "ram": "8gb"
+        }
+    ]}
+  
